@@ -1,0 +1,9 @@
+﻿/* CSS test importado desde disco */
+
+.zTest {
+    width: 100px;
+    height: 100px;
+    background-image: url(images/ImageTestEnCSS.png);
+    margin: 0 auto;
+}
+
