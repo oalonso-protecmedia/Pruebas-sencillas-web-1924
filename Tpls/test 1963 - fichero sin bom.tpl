@@ -1,1 +1,1 @@
-# UTF8 SIN BOM - ñúý # uo.
+# UTF8 SIN BOM - # uo ó.
